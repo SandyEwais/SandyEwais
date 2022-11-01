@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandyewais&label=Profile%20views&color=0e75b6&style=flat" alt="sandyewais" /> </p>
 
-- 🔭 I’m currently working on **Authentication System**
+- 🔭 I’m currently working on **OOP Authentication System**
 
-- 🌱 I’m currently learning **Laravel LiveWire**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Laravel, Php, MySQL and APIs**
 
