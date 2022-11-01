@@ -1,6 +1,6 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
-<h1 align="center">Hi, this is Sandy Ewais</h1>
-<h3 align="center">Engineer|Back-End Web Developer.</h3>
+<h1 align="center">Hey, this is Sandy Ewais</h1>
+<h3 align="center">Software Engineer | Back-End Web Developer.</h3>
 <img align="right" alt="coding" width="333" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandyewais&label=Profile%20views&color=0e75b6&style=flat" alt="sandyewais" /> </p>
