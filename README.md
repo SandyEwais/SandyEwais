@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sosoeid911@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c_atQ4kvRk5R2ZqIlU5MatGrkurt1h6U/view?usp=sharing](https://drive.google.com/file/d/1c_atQ4kvRk5R2ZqIlU5MatGrkurt1h6U/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hxgxn_d7L4SYFpuOOU6RyRqNszcFSOAr/view?usp=share_link](https://drive.google.com/file/d/1hxgxn_d7L4SYFpuOOU6RyRqNszcFSOAr/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
