@@ -5,7 +5,7 @@
 <h1 align="left">Hi there! this is Sandy E.</h1>
 <p align="left">Software Engineering student with special interest in Backend Web Development.</p>
 
-- 📫 How to reach me **sosoeid911@gmail.com**
+- 📫 How to reach me **sandyewais@std.mans.edu.eg**
 
 - 💬 Ask me about **Laravel, Php, MySQL and APIs**
 
