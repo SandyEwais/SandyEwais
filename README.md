@@ -1,7 +1,7 @@
 
 
 
-<img align="right" alt="coding" width="333" src="https://dribbble.com/shots/3443625-Elephanto/attachments/9828796?mode=media">
+<img align="right" alt="coding" width="333" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 <h1 align="left">Hi there! this is Sandy E.</h1>
 <p align="left">Software Engineering student with special interest in Backend Web Development.</p>
 
