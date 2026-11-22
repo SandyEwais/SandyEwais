@@ -1,14 +1,145 @@
-# 🌼 Hi there! this is Sandy
-<img align="right" alt="coding" width="333" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
-Software Engineering student with special interest in Backend Web Development.<br>💬 Ask me about Laravel, Php, MySQL and APIs<br>📫 How to reach me sandyewaisoo@gmail.com<br>
+ <div align="center">
+
+<!-- ==================== SAKURA ANIME HEADER BANNER ==================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,22,25&height=190&section=header&text=Konnichiwa,%20I'm%20Sandy%20🌸&fontSize=36&fontAlignY=38&desc=Backend%20Engineer%20•%20SaaS%20Architect%20•%20AI%20Enthusiast&descAlignY=58&descAlign=50&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,26,27&height=190&section=header&text=Konnichiwa,%20I'm%20Sandy%20🌸&fontSize=36&fontAlignY=38&desc=Backend%20Engineer%20•%20SaaS%20Architect%20•%20AI%20Enthusiast&descAlignY=58&descAlign=50&theme=light" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Konnichiwa,%20I'm%20Sandy%20🌸" alt="Sakura Header Banner" width="100%" />
+</picture>
+
+<!-- ==================== SOCIAL BADGES ==================== -->
+<p align="center">
+  <a href="https://github.com/SandyEwais"><img src="https://img.shields.io/badge/GitHub-SandyEwais-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/sandy-ewais"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sandyewaisoo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://medium.com/@sandyewaisoo"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
+
+<!-- ==================== AESTHETIC ANIME GIF ==================== -->
+<p align="center">
+  <img src="assets/coding-girl.gif" alt="Girl coding" width="400" />
+</p>
+
+<p align="center">
+  <i>A small step can change the future.</i>
+</p>
+
+</div>
+
+---
+
+### 🌸 About Me
+
+```text
+🎋 Role       : Backend Engineer
+🍡 Focus      : Scalable Systems & SaaS Architecture
+⚡ Exploring  : AI Agents, LLM Integration & Go & Embedded Systems
+🍵 Currently  : Building reliable backend systems
+🌱 Background : Computer & Control Systems Engineering
+```
+
+I'm a Software Engineer specializing in backend architecture, scalable systems, and AI-powered solutions.
+
+I enjoy turning complex requirements into reliable products — from multi-tenant SaaS platforms and automated business workflows to real-time communication and AI-powered features.
+
+I also enjoy exploring new technologies, learning by building, and sharing what I discover along the way.
+
+---
+
+### 🛠️ My Magical Arsenal (Tech Stack)
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>🌸 Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,go" alt="Backend Technologies" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI & Agents</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,go,langchain" alt="AI and Python" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash" alt="DevOps" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔧 Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,apidog" alt="Development Tools" /></td>
+  </tr>
+</table>
+
+---
+
+### 🌱 Experience & Leadership
+
+- **Backend Engineer — Idaam Cloud Company**  
+  Working on multi-tenant SaaS platforms, backend architecture, AI-powered interviews, and real-time communication.
+
+- **Freelance Full-Stack Engineer — Deltana Group**  
+  Built an HR management dashboard and RESTful API, including attendance and payroll workflows.
+
+- **Backend Engineer — Freelance**  
+  Developed Laravel-based applications and API-driven platforms.
+
+- **Volunteer Leadership**
+  - Backend Supervisor — Cat Reloaded
+  - Backend Vice Head — Bionic Team
+
+---
+
+### 📊 Activity & Analytics
+
+<div align="center">
+
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SandyEwais&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SandyEwais&theme=rose_pine_dawn&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SandyEwais&hide_border=true" alt="GitHub Streak Stats" />
+</picture>
+
+<br/><br/>
+
+<!-- GitHub Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SandyEwais&show_icons=true&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SandyEwais&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SandyEwais&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyEwais&layout=compact&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyEwais&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyEwais&layout=compact&hide_border=true" alt="Top Languages" />
+</picture>
+
+</div>
+
+---
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/sandy.oo.1692) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](/sandy.oo69/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/sandy-ewais) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sandyewaisoo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/sandyewais/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Sandy-Ewais) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20036575) 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsyadal/arsyadal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsyadal/arsyadal/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arsyadal/arsyadal/output/github-snake.svg" width="100%" />
+  </picture>
+  
+<br/>
+  
+<br/>
+  🌷 Thanks for visiting my profile!
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SandyEwais&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SandyEwais&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SandyEwais&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Keep growing, keep creating, and never stop blooming. ♡
+</div>
+
+  
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,22,25&height=90&section=footer" width="100%" alt="Sakura Footer" />
+</div>
